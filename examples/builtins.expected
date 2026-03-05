@@ -1,0 +1,11 @@
+sqrt(16) = 4
+abs(-7.5) = 7.5
+round(3.7) = 4
+trunc(9.9) = 9
+ord(A) = 65
+succ(4) = 5
+pred(4) = 3
+concat = Hello, World!
+length(Pascal) = 6
+pos(sc,Pascal) = 3
+copy(Pascal,2,3) = asc
